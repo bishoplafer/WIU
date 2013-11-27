@@ -80,6 +80,9 @@ td:first-child{
 figure img{
 	width: 100%;
 }
+figcaption{
+	text-align: center;
+}
 .sec{
 	clear: both;
 	margin-top: 40px;
